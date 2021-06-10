@@ -6,7 +6,7 @@ chardet==3.0.4
 cloud-init==19.1.3
 configobj==5.0.6
 distlib==0.3.0
-Django==3.0.6
+Django==3.1.12
 filelock==3.0.12
 idna==2.9
 importlib-metadata==1.6.0
